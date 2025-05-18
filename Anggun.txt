@@ -1,4 +1,4 @@
 Nama : Anggun Meika Candra
 Nim  : 2411521012
-Divisi : Programming
-Sub Divisi : Web Programming
+divisi : Programming
+Sub Divisi :Web Programming
